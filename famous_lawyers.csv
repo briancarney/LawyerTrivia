@@ -1,34 +1,35 @@
-Name,Description
-William Kunstler,"A civil rights lawyer famous for defending the Chicago Seven, He was known for his work in numerous high-profile cases involving civil liberties."
-Benjamin Brafman,"A leading criminal defense attorney, he has represented high-profile clients such as Dominique Strauss-Kahn and Martin Shkreli."
-Robert Shapiro,"A member of the 'Dream Team' that defended O.J. Simpson, this lawyer has represented celebrities such as Eva Longoria and Rob Kardashian."
-Charles Hamilton Houston,"A prominent African American lawyer and civil rights activist, he played a significant role in dismantling the Jim Crow laws and trained future Supreme Court Justice Thurgood Marshall."
-Salmon P. Chase,"An American politician and jurist who served as the sixth Chief Justice of the United States, he was known for his strong opposition to slavery and his efforts in the legal and political arenas to abolish it."
-Hugo Black,"An Associate Justice of the U.S. Supreme Court, he was known for his strong defense of civil liberties and his interpretation of the First Amendment."
-Louis Brandeis,"An Associate Justice of the U.S. Supreme Court, he was known for his advocacy of privacy and social justice issues."
-Oliver Wendell Holmes Jr.,"An Associate Justice of the U.S. Supreme Court, he is famous for his long service, his influence on American legal thought, and his opinions on free speech during wartime."
-Joseph Story,"An Associate Justice of the U.S. Supreme Court, he was known for his influential commentaries on the Constitution and his role in shaping American jurisprudence."
-Myra Bradwell,"An early female lawyer and publisher of the influential legal newspaper Chicago Legal News, he was instrumental in advocating for women's rights and the right for women to practice law."
-Abraham Lincoln,"Before his presidency, he was a successful lawyer known for his sharp legal mind and exceptional oratory skills."
-Francis Scott Key,"Best known as the author of 'The Star-Spangled Banner,' he was also a lawyer who argued several cases before the U.S. Supreme Court, including the famous Amistad case."
-Geoffrey Fieger,"Best known for his defense of Dr. Jack Kevorkian in assisted suicide cases, he is a prominent figure in civil rights litigation."
-F. Lee Bailey,"Defended high-profile cases such as the Boston Strangler, Patty Hearst, and the My Lai Massacre."
-Rudy Giuliani,"Former Mayor of New York City and U.S. Attorney for the Southern District of New York, he gained fame for his prosecution of organized crime and his leadership following the 9/11 attacks."
-Johnnie Cochran,Gained national fame for his role in the O.J. Simpson defense team and also represented celebrities like Michael Jackson and Tupac Shakur.
-Anne Bremner,"Known for her work as a legal analyst and high-profile cases including the Amanda Knox case, she is a prominent figure in criminal defense."
-Clarence Darrow,"Known for his defense in the Scopes 'Monkey' Trial and the Leopold and Loeb case, he was a prominent advocate for labor rights and civil liberties."
-David Boies,"Known for his role in the United States v. Microsoft case and representing Al Gore in Bush v. Gore, he is a prominent litigator and trial lawyer."
-Alan Dershowitz,"Known for his work on the O.J. Simpson case, Claus von Bulow, and Jeffrey Epstein, he is a prominent constitutional law scholar and criminal lawyer."
-Gerry Spence,"Renowned for never losing a criminal case, he is celebrated for his defense in the Karen Silkwood case and his work on civil rights."
-John Adams,Second President of the United States and a prominent lawyer who successfully defended British soldiers in the Boston Massacre trial.
-Robert Paine,"Signer of the Declaration of Independence and Attorney General of Massachusetts, he was known for prosecuting the soldiers involved in the Boston Massacre."
-Thurgood Marshall,"The first African-American Supreme Court Justice, famous for his victory in Brown v. Board of Education which desegregated public schools."
-Mary Jo White,"The first female U.S. Attorney for the Southern District of New York, known for prosecuting the 1993 World Trade Center bombers and Bernie Madoff."
-Belva Ann Lockwood,"The first woman to argue a case before the U.S. Supreme Court, she was a pioneer for women's rights and a strong advocate for women's suffrage."
-John Marshall,"The fourth Chief Justice of the United States, his court opinions helped lay the basis for American constitutional law and made the Supreme Court a coequal branch of government."
-Robert Kennedy,"U.S. Attorney General during his his brother's presidency, he was known for his work in civil rights and organized crime."
-Daniel Webster,Prominent 19th-century lawyer known for his advocacy in landmark cases like Dartmouth College and McCulloch v. Maryland.
-Francis Biddle,Attorney General under FDR and primary American judge at the Nuremberg Trials.
-John Jay,"First Chief Justice of the United States, key figure in the founding of the American legal system."
-Ralph Nader,Political activist and attorney noted for consumer protection and environmentalism.
-Roger Taney,"Fifth Chief Justice of the U.S., known for the Dred Scott v. Sandford decision."
+Name,Description,Image
+Abraham Lincoln,"Before his presidency, he was a successful lawyer known for his sharp legal mind and exceptional oratory skills.",Abraham_Lincoln.jpg
+Alan Dershowitz,"Known for his work on the O.J. Simpson case, Claus von Bulow, and Jeffrey Epstein, he is a prominent constitutional law scholar and criminal lawyer.",Alan_Dershowitz.jpg
+Anne Bremner,"Known for her work as a legal analyst and high-profile cases including the Amanda Knox case, she is a prominent figure in criminal defense.",Anne_Bremner.jpg
+Belva Ann Lockwood,"The first woman to argue a case before the U.S. Supreme Court, she was a pioneer for women's rights and a strong advocate for women's suffrage.",Belva_Lockwood.jpg
+Benjamin Brafman,"A leading criminal defense attorney, he has represented high-profile clients such as Dominique Strauss-Kahn and Martin Shkreli.",Benjamin_Brafman.psd
+Charles Hamilton Houston,"A prominent African American lawyer and civil rights activist, he played a significant role in dismantling the Jim Crow laws and trained future Supreme Court Justice Thurgood Marshall.",Charles_HamiltonHouston.jpg
+Clarence Darrow,"Known for his defense in the Scopes 'Monkey' Trial and the Leopold and Loeb case, he was a prominent advocate for labor rights and civil liberties.",Clarence_Darrow.jpg
+Daniel Webster,Prominent 19th-century lawyer known for his advocacy in landmark cases like Dartmouth College and McCulloch v. Maryland.,Daniel_Webster.jpg
+David Boies,"Known for his role in the United States v. Microsoft case and representing Al Gore in Bush v. Gore, he is a prominent litigator and trial lawyer.",David_Boies.jpg
+F. Lee Bailey,"Defended high-profile cases such as the Boston Strangler, Patty Hearst, and the My Lai Massacre.",F.Lee_Bailey.jpg
+Francis Biddle,Attorney General under FDR and primary American judge at the Nuremberg Trials.,Francis_Biddle.jpg
+Francis Scott Key,"Best known as the author of 'The Star-Spangled Banner,' he was also a lawyer who argued several cases before the U.S. Supreme Court, including the famous Amistad case.",Francis_ScottKey.jpg
+Geoffrey Fieger,"Best known for his defense of Dr. Jack Kevorkian in assisted suicide cases, he is a prominent figure in civil rights litigation.",Geoffrey_Fieger.jpg
+Gerry Spence,"Renowned for never losing a criminal case, he is celebrated for his defense in the Karen Silkwood case and his work on civil rights.",Gerry_Spence.jpg
+Hugo Black,"An Associate Justice of the U.S. Supreme Court, he was known for his strong defense of civil liberties and his interpretation of the First Amendment.",Hugo_Black.jpg
+John Adams,Second President of the United States and a prominent lawyer who successfully defended British soldiers in the Boston Massacre trial.,John_Adams.jpg
+John Jay,"First Chief Justice of the United States, key figure in the founding of the American legal system.",John_Jay.jpg
+John Marshall,"The fourth Chief Justice of the United States, his court opinions helped lay the basis for American constitutional law and made the Supreme Court a coequal branch of government.",John_Marshall.jpg
+Johnnie Cochran,Gained national fame for his role in the O.J. Simpson defense team and also represented celebrities like Michael Jackson and Tupac Shakur.,Johnnie_Cochran.jpg
+Joseph Story,"An Associate Justice of the U.S. Supreme Court, he was known for his influential commentaries on the Constitution and his role in shaping American jurisprudence.",Joseph_Story.jpg
+Louis Brandeis,"An Associate Justice of the U.S. Supreme Court, he was known for his advocacy of privacy and social justice issues.",Louis_Brandeis.jpg
+Mark Lanier,A prominent trial lawyer known for his successful litigation against major corporations,Mark_Lanier.jpg
+Mary Jo White,"The first female U.S. Attorney for the Southern District of New York, known for prosecuting the 1993 World Trade Center bombers and Bernie Madoff.",Mary_Jo_White.jpg
+Myra Bradwell,"An early female lawyer and publisher of the influential legal newspaper Chicago Legal News, he was instrumental in advocating for women's rights and the right for women to practice law.",Myra_Bradwell.jpg
+Oliver Wendell Holmes Jr.,"An Associate Justice of the U.S. Supreme Court, he is famous for his long service, his influence on American legal thought, and his opinions on free speech during wartime.",Oliver_WendellHolmes.jpg
+Ralph Nader,Political activist and attorney noted for consumer protection and environmentalism.,Ralph_Nader.jpg
+Robert Kennedy,"U.S. Attorney General during his his brother's presidency, he was known for his work in civil rights and organized crime.",Robert_Kennedy.jpg
+Robert Paine,"Signer of the Declaration of Independence and Attorney General of Massachusetts, he was known for prosecuting the soldiers involved in the Boston Massacre.",Robert_Paine.jpg
+Robert Shapiro,"A member of the 'Dream Team' that defended O.J. Simpson, this lawyer has represented celebrities such as Eva Longoria and Rob Kardashian.",Robert_Shapiro.jpg
+Roger Taney,"Fifth Chief Justice of the U.S., known for the Dred Scott v. Sandford decision.",Roger_Taney.jpg
+Rudy Giuliani,"Former Mayor of New York City and U.S. Attorney for the Southern District of New York, he gained fame for his prosecution of organized crime and his leadership following the 9/11 attacks.",Rudy_Giuliani.jpg
+Salmon P. Chase,"An American politician and jurist who served as the sixth Chief Justice of the United States, he was known for his strong opposition to slavery and his efforts in the legal and political arenas to abolish it.",Salmon._Chase.jpg
+Thurgood Marshall,"The first African-American Supreme Court Justice, famous for his victory in Brown v. Board of Education which desegregated public schools.",Thurgood_Marshall.jpg
+William Kunstler,"A civil rights lawyer famous for defending the Chicago Seven, He was known for his work in numerous high-profile cases involving civil liberties.",William_Kunstler.jpg
