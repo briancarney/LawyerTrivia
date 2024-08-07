@@ -14,9 +14,9 @@ let correctLawyer = null;
 function parseCSV(data) {
     const lines = data.split('\n');
     const headers = lines[0].split(',');
-    
+
     for (let i = 1; i < lines.length; i++) {
-        const line = lines[i];
+        const line = lines[i].trim();
         if (line) {
             const values = line.split(',');
             const lawyer = {};
@@ -119,4 +119,3 @@ function shuffleArray(array) {
     }
     return array;
 }
-
